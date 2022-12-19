@@ -18,8 +18,8 @@ import androidx.fragment.app.Fragment;
 public class frag1 extends Fragment {
     private View view;
 
-    public String[] name={"Rick Astley-Never Gonna Give You Up","結束バンド-ギターと孤独と蒼い惑星","結束バンド-Distortion!!"};
-    public static int[] icons={R.drawable.music0,R.drawable.music1,R.drawable.music2};
+    public String[] name={"Rick Astley-Never Gonna Give You Up","結束バンド-ギターと孤独と蒼い惑星","結束バンド-Distortion!!","[cover] 幽霊東京 /yama"};
+    public static int[] icons={R.drawable.music0,R.drawable.music1,R.drawable.music2,R.drawable.music3};
 
     @Nullable
     @Override

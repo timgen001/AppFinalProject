@@ -84,7 +84,7 @@ public class MusicService extends Service {
             player.start();
         }
 
-        public void seekTo(int progress){
+        public void seekTo(int progress) {
             player.seekTo(progress);
         }
     }
